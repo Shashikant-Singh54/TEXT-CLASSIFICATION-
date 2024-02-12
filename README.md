@@ -1,1 +1,1 @@
-this project is a NLP project. 
+this project is a NLP project. In this I have learnt vectorizers and lematisation  
